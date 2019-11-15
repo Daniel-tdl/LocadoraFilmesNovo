@@ -77,3 +77,4 @@ C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.pdb
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.Migrations.CreateDDLInicial.resources
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.csproj.GenerateResource.cache
+C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.Migrations.Usuario_DDL.resources

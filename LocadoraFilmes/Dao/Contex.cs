@@ -20,5 +20,6 @@ namespace LocadoraFilmes.Dao
         public DbSet<Genero> Genero { get; set; }
         public DbSet<Filme> Filme { get; set; }
         public DbSet<Locacao> Locacao { get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
     }
 }

@@ -105,6 +105,10 @@
     <Compile Include="Migrations\201911142352511_CreateDDLInicial.designer.cs">
       <DependentUpon>201911142352511_CreateDDLInicial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201911150102473_Usuario_DDL.cs" />
+    <Compile Include="Migrations\201911150102473_Usuario_DDL.designer.cs">
+      <DependentUpon>201911150102473_Usuario_DDL.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Filme.cs" />
     <Compile Include="Models\Genero.cs" />
@@ -112,6 +116,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Locacao.cs" />
+    <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -131,6 +136,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201911142352511_CreateDDLInicial.resx">
       <DependentUpon>201911142352511_CreateDDLInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911150102473_Usuario_DDL.resx">
+      <DependentUpon>201911150102473_Usuario_DDL.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
