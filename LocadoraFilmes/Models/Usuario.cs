@@ -12,6 +12,7 @@ namespace LocadoraFilmes.Models
         public int UsuarioID { get; set; }
         [Index(IsUnique = true)]
         [StringLength(200)]
+        [Required]
         public string Nome { get; set; }
         [Required] 
         public string Senha { get; set; }   

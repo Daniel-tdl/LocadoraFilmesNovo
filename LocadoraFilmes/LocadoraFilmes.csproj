@@ -109,6 +109,10 @@
     <Compile Include="Migrations\201911150102473_Usuario_DDL.designer.cs">
       <DependentUpon>201911150102473_Usuario_DDL.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201911150108106_Usuario_Nome_Requerido.cs" />
+    <Compile Include="Migrations\201911150108106_Usuario_Nome_Requerido.designer.cs">
+      <DependentUpon>201911150108106_Usuario_Nome_Requerido.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Filme.cs" />
     <Compile Include="Models\Genero.cs" />
@@ -139,6 +143,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201911150102473_Usuario_DDL.resx">
       <DependentUpon>201911150102473_Usuario_DDL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201911150108106_Usuario_Nome_Requerido.resx">
+      <DependentUpon>201911150108106_Usuario_Nome_Requerido.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
