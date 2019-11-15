@@ -72,7 +72,8 @@ C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\bin\pt-br\System.Web.Webp
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\bin\pt-br\System.Web.Webpages.Razor.resources.dll
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\bin\pt-br\System.Web.Mvc.resources.dll
-C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.csprojAssemblyReference.cache
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.csproj.CopyComplete
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.dll
 C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.pdb
+C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.Migrations.CreateDDLInicial.resources
+C:\Daniel\Pessoal\GitHub\LocadoraFilmes\LocadoraFilmes\obj\Debug\LocadoraFilmes.csproj.GenerateResource.cache
